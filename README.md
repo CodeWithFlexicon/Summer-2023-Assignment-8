@@ -18,7 +18,7 @@ To test the API, follow these steps:
    ```
    npm start
    ```
-7. The API should now be running locally on `http://localhost:4000`.
+7. The API should now be running locally on `http://localhost:4003` or the port of your choice.
 
 ## Features
 
