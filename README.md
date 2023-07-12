@@ -32,3 +32,22 @@ To test the API, follow these steps:
 ## Testing
 
 Postman was used to test the API endpoints and ensure that all operations were successful. You can use Postman or any other API testing tool to send requests to the API endpoints and verify the functionality.
+
+### GET Operation
+![Screenshot](images/GetOperation.png)
+![Screenshot](images/GetSpecificOperation.png)
+
+### POST Operation
+![Screenshot](images/PostOperation.png)
+
+#### Checking if the POST is successful
+![Screenshot](images/PostCheck.png)
+
+### PATCH Operation
+![Screenshot](images/PatchOperation.png)
+
+### DELETE Operation
+![Screenshot](images/DeleteOperation.png)
+
+#### Checking if the DELETE is successful
+![Screenshot](images/DeleteCheck.png)
