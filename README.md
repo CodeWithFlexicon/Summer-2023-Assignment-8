@@ -1,6 +1,6 @@
 # Book Inventory Management API
 
-This project is an API for managing a book inventory. It allows users to perform CRUD (Create, Read, Update, Delete) operations on book data using Node.js, Express.js, and PostgreSQL.
+This assignment is an API for managing a book inventory. It allows users to perform CRUD (Create, Read, Update, Delete) operations on book data using Node.js, Express.js, and PostgreSQL.
 
 ## Installation
 
