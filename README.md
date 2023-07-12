@@ -35,6 +35,9 @@ Postman was used to test the API endpoints and ensure that all operations were s
 
 ### GET Operation
 ![Screenshot](images/GetOperation.png)
+
+#### GET a book by specific id
+
 ![Screenshot](images/GetSpecificOperation.png)
 
 ### POST Operation
