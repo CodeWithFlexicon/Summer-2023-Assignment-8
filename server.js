@@ -41,7 +41,7 @@ app.get("/books/:id", async (req, res) => {
     ]);
 
     if (book.rows.length > 0) {
-      res.status(200).json(job.rows[0]);
+      res.status(200).json(book.rows[0]);
     } else {
       res.status(404).send({ message: "Book not found, sorry!" });
     }
